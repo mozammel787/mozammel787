@@ -1,7 +1,6 @@
-(https://media.licdn.com/dms/image/D5616AQHrp4L48RcSBQ/profile-displaybackgroundimage-shrink_200_800/0/1670511667033?e=2147483647&v=beta&t=Qq0vPLNffzbqAcTpnwhstrV76W3YXuinIjC2fNfCYCw)
+![Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist](https://ibb.co/7SLDzMt)
 ### Hi there 👋, my name is Mohammad Mozammel
 #### Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist
-![Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist]
 
 Ever since I can remember, technology has enthralled me. 👋 I’m Mohammad Mozammel, a dedicated Full-Stack Web Developer with a focus on the MERN stack (MongoDB, Express, React, Node.js).
 
