@@ -1,5 +1,6 @@
-![Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist](https://raw.githubusercontent.com/mozammel787/mozammel787/main/0BE8E23F-1994-4998-BD2B-183EE3CE01E3.jpeg)
 ### Hi there 👋, my name is Mohammad Mozammel
+![Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist](https://raw.githubusercontent.com/mozammel787/mozammel787/main/0BE8E23F-1994-4998-BD2B-183EE3CE01E3.jpeg)
+
 #### Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist
 
 Ever since I can remember, technology has enthralled me. 👋 I’m Mohammad Mozammel, a dedicated Full-Stack Web Developer with a focus on the MERN stack (MongoDB, Express, React, Node.js).
