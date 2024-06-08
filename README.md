@@ -1,4 +1,4 @@
-![Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist](https://ibb.co/7SLDzMt)
+![Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist]([https://ibb.co/7SLDzMt](https://ibb.co/7SLDzMt))
 ### Hi there 👋, my name is Mohammad Mozammel
 #### Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist
 
