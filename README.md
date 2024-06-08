@@ -10,11 +10,10 @@ Apart from my proficiency in the MERN stack, I also possess substantial experien
 
 I’m still a new professional, but my commitment and technical abilities have already been acknowledged. My ability to stay up to speed with emerging technology and trends in the industry is a result of my self-motivation and dedication to lifelong learning. I’ve taken numerous online classes and earned certificates to broaden my knowledge and hone my abilities.
 
-When I’m not developing, I like to mentor other aspiring engineers and write blogs on web development. I believe in the power of exchanging knowledge and staying up to date with technology. I can’t wait to start my career and am actively looking for chances to use my skills in a fast-paced workplace. If you are as excited about cutting-edge online solutions as I am, or if you are seeking a committed developer to join your team, let’s get in touch and make something incredible together!
-''
-✉️ : mohammad.mozammel787@gmail.com
+When I’m not developing, I like to mentor other aspiring engineers and write blogs on web development. I believe in the power of exchanging knowledge and staying up to date with technology. I can’t wait to start my career and am actively looking for chances to use my skills in a fast-paced workplace. If you are as excited about cutting-edge online solutions as I am, or if you are seeking a committed developer to join your team, let’s get in touch and make something incredible together!<br/>
+✉️ : mohammad.mozammel787@gmail.com <br/>
 🌐 : https://mohammad-mozammel.web.app
-''
+<br/>
 Looking forward to connecting and building the future of the web together!
 
 Feel free to adjust any details to better match your profile!
