@@ -1,31 +1,33 @@
-<h1 align="center">Hi 👋, I'm Mohammad Mozammel</h1>
-<h3 align="center">A passionate MERN Steak developer from Bangladesh</h3>
+### Hi there 👋, my name is Mohammad Mozammel
+#### Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist
+![Full-Stack Web Developer | MERN Stack Specialist | Building Scalable and Efficient Web Applications | WordPress & CMS Specialist](https://media.licdn.com/dms/image/D5616AQHrp4L48RcSBQ/profile-displaybackgroundimage-shrink_200_800/0/1670511667033?e=2147483647&v=beta&t=Qq0vPLNffzbqAcTpnwhstrV76W3YXuinIjC2fNfCYCw)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozammel787&label=Profile%20views&color=0e75b6&style=flat" alt="mozammel787" /> </p>
+Ever since I can remember, technology has enthralled me. 👋 I’m Mohammad Mozammel, a dedicated Full-Stack Web Developer with a focus on the MERN stack (MongoDB, Express, React, Node.js).
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozammel787" alt="mozammel787" /></a> </p>
+Through self-taught classes and practical projects, I commenced my adventure into web programming and fell in love with developing dynamic, high-performing web apps. During my independent studies, I developed a solid foundation in front-end and back-end programming. Using the MERN stack, I built a completely functional e-commerce application, demonstrating my ability to create scalable, effective solutions that offer top-notch user experiences.
 
-<p align="left"> <a href="https://twitter.com/mozammel787" target="blank"><img src="https://img.shields.io/twitter/follow/mozammel787?logo=twitter&style=for-the-badge" alt="mozammel787" /></a> </p>
+Apart from my proficiency in the MERN stack, I also possess substantial experience collaborating with diverse Content Management Systems (CMS) such as WordPress, Kajabi, and Webflow to optimize website performance and user interface. My adaptability 
 
-- 👨‍💻 All of my projects are available at [https://mohammad-mozammel.web.app/](https://mohammad-mozammel.web.app/)
+I’m still a new professional, but my commitment and technical abilities have already been acknowledged. My ability to stay up to speed with emerging technology and trends in the industry is a result of my self-motivation and dedication to lifelong learning. I’ve taken numerous online classes and earned certificates to broaden my knowledge and hone my abilities.
 
-- 📫 How to reach me **mohammad.mozammel787@gmail.com**
+When I’m not developing, I like to mentor other aspiring engineers and write blogs on web development. I believe in the power of exchanging knowledge and staying up to date with technology. I can’t wait to start my career and am actively looking for chances to use my skills in a fast-paced workplace. If you are as excited about cutting-edge online solutions as I am, or if you are seeking a committed developer to join your team, let’s get in touch and make something incredible together!
 
-- 📄 Know about my experiences [https://mohammad-mozammel.web.app/](https://mohammad-mozammel.web.app/)
+✉️ : mohammad.mozammel787@gmail.com
+🌐 : https://mohammad-mozammel.web.app
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mozammel787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mozammel787" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mozammel787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozammel787" height="30" width="40" /></a>
-<a href="https://fb.com/mozammel787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mozammel787" height="30" width="40" /></a>
-<a href="https://instagram.com/mozammel787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mozammel787" height="30" width="40" /></a>
-</p>
+Looking forward to connecting and building the future of the web together!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+Feel free to adjust any details to better match your profile!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozammel787&show_icons=true&locale=en&layout=compact" alt="mozammel787" /></p>
+Skills: REACT / JS / HTML / CSS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozammel787&show_icons=true&locale=en" alt="mozammel787" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozammel787&" alt="mozammel787" /></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mozammel787)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mozammel787/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mozammel787)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mozammel787/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mozammel787)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozammel787)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mozammel787&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mozammel787/contributions?format=svg&private=true)  
+
