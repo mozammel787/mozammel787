@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Mohammad Mozammel — Frontend Developer (React | MERN Stack)
 
-![Frontend Developer | React.js | Next.js | Tailwind CSS | WordPress](https://raw.githubusercontent.com/mozammel787/mozammel787/main/0BE8E23F-1994-4998-BD2B-183EE3CE01E3.jpeg)
+![Frontend Developer | React.js | Next.js | Tailwind CSS | WordPress](https://github.com/mozammel787/mozammel787/blob/main/git%20banner.png?raw=true)
 
 #### ⚛️ Frontend Developer | React.js & Next.js Specialist | WordPress & CMS Expert
 
