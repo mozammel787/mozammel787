@@ -30,7 +30,7 @@ From building sleek UI/UX with **Tailwind CSS** to integrating REST APIs and han
 
 ### 📫 Let’s Connect:
 - 🌐 [Portfolio](https://mohammad-mozammel.web.app)
-- 📧 Email: mohammad.mozammel787@gmail.com
+- 📧 mohammad.mozammel787@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/mozammel787)
 
 > Currently open to **Frontend Developer** roles (Remote/Hybrid). Let’s build intuitive, high-performing digital experiences together!
